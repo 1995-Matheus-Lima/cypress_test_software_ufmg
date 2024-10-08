@@ -1,0 +1,25 @@
+{
+  "name": "test_example",
+  "version": "1.0.0",
+  "description": "code used to learning and present how cypress is used to",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1995-Matheus-Lima/cypress_test_software_ufmg.git"
+  },
+  "keywords": [
+    "cypress]"
+  ],
+  "author": "Matheus Henrique and André",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1995-Matheus-Lima/cypress_test_software_ufmg/issues"
+  },
+  "homepage": "https://github.com/1995-Matheus-Lima/cypress_test_software_ufmg#readme",
+  "devDependencies": {
+    "cypress": "^13.15.0"
+  }
+}
