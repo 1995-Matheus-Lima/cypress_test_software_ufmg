@@ -1,0 +1,5 @@
+Modo interativo
+npx cypress open
+
+Modo readless
+npx cypress run
